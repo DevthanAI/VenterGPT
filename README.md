@@ -19,4 +19,4 @@ I did experiment with the model in a python file locally and ran it with CPU and
 ## PLEASE READ this before running each file
 
 1. For `shakespeare-prac.ipynb`, change dtype to float16 in `train.py`.
-2. For `openweb-prac.ipynb`, make sure you have enough disk space. The default Colab disk space is 30GB, so it will be likely you need to upgrade to Colab Pro for more disk space.
+2. For `openweb-prac.ipynb`, make sure you have enough disk space. The default Colab disk space is 30GB, so it will be likely you need to upgrade to Colab Pro for more disk space. For the runtime, select high RAM.
